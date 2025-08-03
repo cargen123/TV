@@ -2710,15 +2710,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlynapolivsbrest" tvg-name="Soccer | Club Friendly : Napoli vs Brest (19:00)" tvg-logo="https://raw.githubusercontent.com/cargen123/TV/main/logos/Napoli_vs_Brest.png" group-title="Eventi Live",Soccer | Club Friendly : Napoli vs Brest (19:00)
-https://thedaddy.click/stream/stream-14.php
-
-#EXTINF:-1 tvg-id="premierleaguesummerseriesafcbournemouthvswesthamunited" tvg-name="Soccer | Premier League Summer Series : AFC Bournemouth vs West Ham United (20:00)" tvg-logo="https://raw.githubusercontent.com/cargen123/TV/main/logos/AFC Bournemouth_vs_West Ham United.png" group-title="Eventi Live",Soccer | Premier League Summer Series : AFC Bournemouth vs West Ham United (20:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/wind/premium870/mono.m3u8
-
 #EXTINF:-1 tvg-id="clubfriendlypremierleaguesummerseriesmanchesterunitedvseverton" tvg-name="Soccer | Club Friendly Premier League Summer Series : Manchester United vs Everton (23:00)" tvg-logo="https://raw.githubusercontent.com/cargen123/TV/main/logos/Manchester United_vs_Everton.png" group-title="Eventi Live",Soccer | Club Friendly Premier League Summer Series : Manchester United vs Everton (23:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
@@ -2731,7 +2722,7 @@ https://new.newkso.ru/ddy6/premium461/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="mensvolleyballnationsleaguematchfor3rdplacebrazilvsslovenia" tvg-name="Volleyball | Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia (22:22)" tvg-logo="https://raw.githubusercontent.com/cargen123/TV/main/logos/Nations League match for 3rd place : Brazil_vs_Slovenia.png" group-title="Eventi Live",Volleyball | Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia (22:22)
+#EXTINF:-1 tvg-id="mensvolleyballnationsleaguematchfor3rdplacebrazilvsslovenia" tvg-name="Volleyball | Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia (23:42)" tvg-logo="https://raw.githubusercontent.com/cargen123/TV/main/logos/Nations League match for 3rd place : Brazil_vs_Slovenia.png" group-title="Eventi Live",Volleyball | Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia (23:42)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
