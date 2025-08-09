@@ -2752,7 +2752,7 @@ https://new.newkso.ru/ddy6/premium462/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="saudiarabiamastersjeddahday2afternoonsession" tvg-name="Snooker | Saudi Arabia Masters | Jeddah | Day-2 Afternoon Session (13:00)" tvg-logo="http://www.amuobajeddah.com/img/amulogo.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters | Jeddah | Day-2 Afternoon Session (13:00)
+#EXTINF:-1 tvg-id="saudiarabiamastersjeddahday2afternoonsession" tvg-name="Snooker | Saudi Arabia Masters | Jeddah | Day-2 Afternoon Session (13:00)" tvg-logo="https://img.goalfacts.com/team/al-ahli-jeddah-19e47.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters | Jeddah | Day-2 Afternoon Session (13:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -2763,12 +2763,6 @@ https://new.newkso.ru/wind/premium879/mono.m3u8
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="sierrezinalgoldentrailworldseries" tvg-name="Athletics | Sierre-Zinal Golden Trail World Series (12:00)" tvg-logo="https://goldentrailseries.com/wp-content/uploads/2024/04/race-logo-1639047743.png" group-title="Eventi Live",Athletics | Sierre-Zinal Golden Trail World Series (12:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-id="tourofpolandstage6menbukovina1476km" tvg-name="Cycling | Tour of Poland | Stage 6 Men | Bukovina (147.6km) (12:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Poland | Stage 6 Men | Bukovina (147.6km) (12:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2788,7 +2782,7 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="t100triathlonworldtourlondonmenandwomen" tvg-name="Triathlon | T100 Triathlon World Tour | London Men and Women (12:45)" tvg-logo="https://content.protriathletes.org/content/images/2024/09/b338e080-8dcf-4b6c-b649-d41bcae3d29c.png" group-title="Eventi Live",Triathlon | T100 Triathlon World Tour | London Men and Women (12:45)
+#EXTINF:-1 tvg-id="t100triathlonworldtourlondonmenandwomen" tvg-name="Triathlon | T100 Triathlon World Tour | London Men and Women (12:45)" tvg-logo="https://content.protriathletes.org/content/images/2024/09/dc466e8d-a583-4616-be60-d2235deb2e63.png" group-title="Eventi Live",Triathlon | T100 Triathlon World Tour | London Men and Women (12:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
